@@ -1,0 +1,24 @@
+NEXUS TECH - ONBOARDING GUIDE
+
+WEEK 1
+Day 1: Laptop ready at reception. IT setup takes 2 hours. Access to Slack, GitHub, Jira, Notion, Google Workspace on day 1. Line manager meeting at 10am. Team lunch expensed to company.
+Day 2-3: Complete mandatory security training in Learning Hub, takes 3 hours, must finish within first week. Book 30-minute intro calls with each team member.
+Day 4-5: Attend first standup. Shadow a team member. Read product documentation for your area.
+
+WEEK 2
+Meet skip-level manager. Attend a customer call if customer-facing. Complete first small ticket chosen with your manager.
+
+PROBATION
+3 months. Formal check-in at 6 weeks and end of month 3. Written feedback within 5 days of each check-in.
+
+TOOLS
+Slack for internal communication, response within 4 hours during working hours. Jira for engineering tasks. Notion for documentation. GitHub with 2FA mandatory.
+
+BENEFITS
+Private health insurance after probation. Pension: Nexus matches up to 5%. Cycle to work scheme. Free lunch in office on Wednesdays. Annual team offsite in Q3.
+
+CONTACTS
+HR: hr@nexustech.io
+IT: it-support@nexustech.io
+Payroll: payroll@nexustech.io
+Security: security@nexustech.io

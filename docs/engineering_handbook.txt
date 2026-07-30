@@ -1,0 +1,19 @@
+NEXUS TECH - ENGINEERING HANDBOOK
+
+1. CODE REVIEW
+All code must be reviewed before merging to main. Pull requests require 2 approvals from engineers outside the author's team. Reviews must be completed within 2 business days.
+
+2. BRANCHING
+Use trunk-based development. Feature branches must be under 3 days old. Naming: feature/ticket-id-description, bugfix/ticket-id-description.
+
+3. TESTING
+Unit test coverage must be above 80% for all new code. Integration tests required for any code touching external services. Tests must run in under 10 minutes in CI.
+
+4. DEPLOYMENT
+Staging deploys happen automatically on merge to main. Production deploys require approval from on-call engineer and team lead. Production deploys happen Monday to Thursday, 10am to 3pm only.
+
+5. ON-CALL
+Engineers join on-call after 6 months. Shifts run Monday to Monday. On-call engineers receive £200 weekly stipend plus £100 per out-of-hours incident.
+
+6. SECURITY
+All API endpoints must require authentication unless approved as public. Secrets must never be committed to version control. Critical vulnerabilities must be patched within 48 hours.

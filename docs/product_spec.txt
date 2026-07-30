@@ -1,0 +1,18 @@
+NEXUS TECH - DATABRIDGE v3.0 PRODUCT SPEC
+
+OVERVIEW
+DataBridge is a data integration platform for enterprise customers. It connects, transforms, and routes data between internal systems and third-party services without custom integration code.
+
+PRICING
+Starter: £499/month, up to 10 pipelines, 10 million events/month.
+Growth: £1,499/month, up to 50 pipelines, 100 million events/month.
+Enterprise: Custom pricing, unlimited pipelines, dedicated support, on-premise option.
+
+KEY FEATURES
+Real-time streaming support for Kafka and Kinesis. Maximum throughput 500,000 events per second. Latency under 100ms at p99. Over 200 pre-built connectors including Salesforce, Snowflake, BigQuery, PostgreSQL, Stripe. Visual drag-and-drop pipeline editor with no-code support.
+
+LIMITATIONS
+Visual editor does not support pipelines with more than 50 nodes. Real-time streaming not available on Starter plan. Connector SDK is in beta.
+
+ROADMAP
+AI-assisted pipeline suggestions. CDC support for PostgreSQL and MySQL. SOC 2 Type II certification.
